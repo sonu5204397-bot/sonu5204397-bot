@@ -73,7 +73,7 @@ Hi! I'm **Sonu Yadav**, a BCA student and passionate **Cybersecurity enthusiast*
 
 ---
 
-### 🛠️ Tech Arsenal & Badges
+
 
 #### 🛡️ Cybersecurity & Pentesting Tools
 <p>
